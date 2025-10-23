@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Buckuris, 
-- 👀 I’m Webflow developer, interested in JS, html, CSS
-- 🌱 I’m currently learning JS
-- 📫 How to reach me: marinamzivkovic@gmail.com
+- 👀 I’m Webflow developer
 
 <!---
 Buckuris/Buckuris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
